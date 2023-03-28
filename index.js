@@ -1,6 +1,6 @@
 const http = require('http');
 const qs = require('querystring');
-const calculator = require('./calculator');
+//const calculator = require('./calculator');
 const port = 3000;
 const host = '127.0.0.1';
 
